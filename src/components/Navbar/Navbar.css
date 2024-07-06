@@ -90,6 +90,9 @@
     .navbar img{
         height: 20px;
     }
+    .navbar-right .profile {
+        width: 30px;
+    }
     .navbar-right{
         gap: 10px;
     }

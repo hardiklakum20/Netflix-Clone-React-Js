@@ -65,10 +65,11 @@
         margin-bottom: 30px;
     }
 }
-@media (max-width:800px){
-    .hero-caption{
-        padding-left: 4%;
-    }
+@media (max-width:800px){  
+    .hero-caption {
+        padding-left: 4%; 
+        display: none;       
+    }    
     .caption-img{
         margin-bottom: 10px;
         width: 40%;
@@ -82,6 +83,7 @@
     }
     .more-cards{
         padding-left: 4%;
+        margin-top: -100px;
     }
 }
 @media (max-width:500px){
